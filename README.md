@@ -48,3 +48,7 @@ and for adhoc command,
 `````````````````
 ansible all -m shell -a 'echo hello world’
 ```````````````````
+
+3). The Tutorial Wiki link is below
+
+https://github.com/adildhar/ansible-tutorials/wiki
